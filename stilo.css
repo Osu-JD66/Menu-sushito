@@ -9,7 +9,7 @@ body {
 .magazine {
     position: relative;
     width: 600px;
-    height: 700px;
+    height: 900px;
     margin: 30px auto;
     margin-top: 7px;
     margin-bottom: 0px;
@@ -19,7 +19,7 @@ body {
 .page {
     position: absolute;
     width: 600px;
-    height: 700px;
+    height: 900px;
     background: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transform-origin: left;
